@@ -1,1 +1,2 @@
-learngit is a tool
+learngit is a tool£»
+git is free software.
